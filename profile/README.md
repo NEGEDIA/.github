@@ -1,2 +1,2 @@
 ## Intro
-Link to [website](www.negedia.com)
+Link to [website](https://www.negedia.com)
